@@ -82,3 +82,10 @@ body {
   .address {
     margin-bottom: 5px;
   }
+
+  /*coffee img - display as block*/
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
